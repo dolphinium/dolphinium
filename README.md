@@ -1,6 +1,6 @@
 Welcome to my Github Account. 
 
-I am actively using Github for Version Control and as my workplace. You can find out most of my recent public projects here. Don't think private ones for now🤨
+I am actively using Github for Version Control and as my workplace. You can find out most of my recent public projects here.
 
 If you have any questions, advices or messages please feel free to mail me. 
 [official.yunusemrekorkmaz@gmail.com](mailto:official.yunusemrekorkmaz@gmail.com)
