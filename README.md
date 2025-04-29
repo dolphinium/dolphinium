@@ -8,7 +8,7 @@ If you have any questions, advices or messages please feel free to mail me.
 You can find my HuggingFace and LinkedIn Accounts below:
 - [HuggingFace 🤗](https://huggingface.co/dolphinium)
 
-- [LinkedIn](https://www.linkedin.com/in/yunus-emre-korkmaz-1ba287208/) 
+- [LinkedIn](https://www.linkedin.com/in/yunus-emre-k0rkmaz/) 
 
 
 <!--
